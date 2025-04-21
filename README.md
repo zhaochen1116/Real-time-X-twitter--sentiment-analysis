@@ -78,7 +78,7 @@ python producer/dummy_producer.py
 ## 🖼️ Live Dashboard Preview
 
 > Includes dynamic WebSocket updates, real-time charts, and animated transitions for new tweets.
-![alt text](firefox_PG6d06asMT.gif)
+![alt text](assets/firefox_PG6d06asMT.gif)
 ---
 
 ## 🧠 AI Sentiment Classification
