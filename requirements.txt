@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymongo
+kafka-python
+python-dotenv
+openai
+textblob
